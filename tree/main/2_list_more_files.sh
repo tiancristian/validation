@@ -1,5 +1,5 @@
 #!/bin/bash
-pwd
-cd ~
-pwd
+
+ls -la
+
 
